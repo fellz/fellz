@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Elm
 - 💞️ I’m looking to collaborate on Elm projects
 - 📫 How to reach me @fellor at twitter
+- Демо сайт, https://mestofront.herokuapp.com.
 
 <!---
 fellz/fellz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
