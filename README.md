@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in JS/TS projects
+- ✨ I learn functional programming
 - 🌱 I’m currently learning Elm
 - 💞️ I’m looking to collaborate on Elm projects
 - 📫 How to reach me @fellor at twitter
