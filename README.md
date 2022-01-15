@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in JS/TS projects
-- ✨ I learn functional programming
-- 🌱 I’m currently learning Elm
-- 💞️ I’m looking to collaborate on Elm projects
-- 📫 How to reach me @fellor at twitter
+-  Текущий проект на Vue.js/Nuxt.js/3 версия. Typescript.
+- ✨ I learn functional programming, Elm language
 - Демо сайт, https://mestofront.herokuapp.com.
 
 <!---
